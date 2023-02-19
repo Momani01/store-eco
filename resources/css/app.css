@@ -1,0 +1,7 @@
+.navbar {
+    padding: 15px;
+    background-color: #555;
+    color: floralwhite;
+}
+
+@import url(./layuot/_navbar.scss);
